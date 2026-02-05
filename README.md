@@ -11,6 +11,9 @@ Construção de um dashboard interativo (app.py)
 - Análises por senioridade, remoto e país
 - Visualizações interativas com Plotly
 
+## Acesse em:
+https://imersaodedadossalarios.streamlit.app/ 
+
 ## ▶ Como rodar localmente
 ```bash
 pip install -r requirements.txt
